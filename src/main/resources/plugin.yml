@@ -1,0 +1,9 @@
+name: Template
+version: '1.0-SNAPSHOT'
+main: dev.pov.template.TemplatePlugin
+api-version: '1.21'
+authors: [ Pol ]
+website: polv.dev
+
+softdepend:
+  - PlaceholderAPI
